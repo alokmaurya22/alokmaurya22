@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript,React,MySQL,PHP,JAVA,SpringBoot,PgSQL**
 
-- 📫 How to reach me **er.alokmaurya22@gmail.com**
+- 📫 Contect me at **er.alokmaurya22@gmail.com**
 
 - 📄 Know about my experiences [https://alokdata.netlify.app/](https://alokdata.netlify.app/)
 
